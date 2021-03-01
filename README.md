@@ -1,2 +1,2 @@
 # stripe
-Code development and payments software with the Stripe API.
+Code that process financial transactions with the Stripe API.
