@@ -1,2 +1,2 @@
 # stripe
-Code that process financial transactions with the Stripe API.
+Code samples that process financial transactions with the utility of the Stripe API. 
