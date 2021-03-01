@@ -1,2 +1,2 @@
 # stripe
-Code development and implementation with the Stripe API.
+Code development and payments software implementation with the Stripe API.
